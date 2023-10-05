@@ -1,6 +1,6 @@
 ![octo small](https://github.com/aguembes/aguembes/assets/146837207/a34e0164-c8e4-4170-a99a-700c191e25ec)
-- 👋 Hi, I’m @aguembes
-- I’m a student at Walpole High School
+- Hi, I’m @aguembes.
+- I’m a student at Walpole High School.
 
 ### Code.org GameLab
 [Robot Face](https://aguembes.github.io/robot/)

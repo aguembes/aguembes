@@ -1,4 +1,4 @@
-
+![octo small](https://github.com/aguembes/aguembes/assets/146837207/3aec6e1f-7e95-4e9b-90f1-67efcfc8aaa7)
 - 👋 Hi, I’m @aguembes
 - 👀 I’m am a student at Walpole High School
 

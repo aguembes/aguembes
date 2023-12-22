@@ -11,3 +11,7 @@
 
 [Interactive Card](https://studio.code.org/projects/gamelab/01Ybtk0R45uNsFddLl0ogJBz25fy9q88qYU70i9a4jk)
 >An interactive birthday card project I made with multiple sprites and conditions.
+
+[Side Scroller](https://studio.code.org/projects/gamelab/wqZekeYw7Q0E-ufqwbjn6PzkHZ3LiH6BwZ2WAxmD64g)
+> An interactve jump and dodge side-scroller made with functions.
+

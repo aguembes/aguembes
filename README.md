@@ -16,10 +16,16 @@
 >An interactve jump and dodge side-scroller made with functions.
 
 [Flyer Game](https://studio.code.org/projects/gamelab/YHDrB1NmDtDQH29Q3QPnPwHVzsU8vR9-Pys2oQ633qw)
->
+>.
 
 [Platform Game](https://studio.code.org/projects/gamelab/sTXHkgTYwbSlC9XyPk79QM-DvLKF9wpzJLwQox3ad5w)
->
+>.
 
 [Final Game Project](https://studio.code.org/projects/gamelab/c-AbmwKfl33Ws7xG9R5308rArLMjunvNpxSkVj6-Y2o)
->
+>.
+
+[Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=a8fe95ff-d123-4a17-a462-154f3d62877c)
+>.
+
+[Music Maker](https://gallery.appinventor.mit.edu/?galleryid=fec9938d-5430-487e-84bf-20c8a28d1fca)
+>.

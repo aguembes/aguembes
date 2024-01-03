@@ -22,10 +22,10 @@
 >.
 
 [Final Game Project](https://studio.code.org/projects/gamelab/c-AbmwKfl33Ws7xG9R5308rArLMjunvNpxSkVj6-Y2o)
->.
+>A side scroller game that utilizes moving backgrounds and functions.
 
 [Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=a8fe95ff-d123-4a17-a462-154f3d62877c)
->.
+>An app that utilizes multiple buttons with audios.
 
 [Music Maker](https://gallery.appinventor.mit.edu/?galleryid=fec9938d-5430-487e-84bf-20c8a28d1fca)
 >An app that utilizes multiples button that can create music and record.

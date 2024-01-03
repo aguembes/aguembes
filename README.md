@@ -29,3 +29,6 @@
 
 [Music Maker](https://gallery.appinventor.mit.edu/?galleryid=fec9938d-5430-487e-84bf-20c8a28d1fca)
 >An app that utilizes multiples button that can create music and record.
+
+[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=dfec9ce2-22ea-4676-a57a-e97d7cf4f8f2)
+>An app where you have to control a red ball with a flinging action and collect food.

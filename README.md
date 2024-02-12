@@ -32,3 +32,7 @@
 
 [Food Chase](https://gallery.appinventor.mit.edu/?galleryid=dfec9ce2-22ea-4676-a57a-e97d7cf4f8f2)
 >An app where you have to control a red ball with a flinging action and collect food.
+
+### Python
+[Creative Project](https://academy.cs.cmu.edu/sharing/aquamarineAlligator3919)
+> A project I made using the things that I have been taught so far.

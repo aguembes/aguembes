@@ -35,4 +35,7 @@
 
 ### Python
 [Creative Project](https://academy.cs.cmu.edu/sharing/aquamarineAlligator3919)
-> A project I made using the things that I have been taught so far.
+> A project I made using Polygon, Shapes, Lines, etc.
+
+[Creative Project#2](https://academy.cs.cmu.edu/sharing/goldenrodAnt4159)
+> A project I made using Functions, Mouse Events, and Properties

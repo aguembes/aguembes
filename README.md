@@ -38,4 +38,10 @@
 > A project I made using Polygon, Shapes, Lines, etc.
 
 [Creative Project#2](https://academy.cs.cmu.edu/sharing/goldenrodAnt4159)
-> A project I made using Functions, Mouse Events, and Properties
+> A project I made using Functions, Mouse Events, and Properties.
+
+[Creative Project#3](https://academy.cs.cmu.edu/sharing/orchidBee5333)
+> A project I made using Mouse Motion Events, Conditionals, and Helper Functions.
+
+[Creative Project#4](https://academy.cs.cmu.edu/sharing/bisqueEagle5504)
+> A project I made using Key Events, Methods, and more Conditionals.
